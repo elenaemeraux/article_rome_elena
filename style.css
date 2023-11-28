@@ -1,0 +1,63 @@
+h1 {
+	color: #b56576 ;
+	font-size: 35px;
+    font-family: 'Bodoni Moda', serif;
+
+    
+    margin: 100 px  ;
+    text-align: center;
+}
+.credit_font {
+	text-decoration: underline;
+ }
+p {
+
+
+
+font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+body {
+font-size: 26px;
+	background-color: #fad2e1;
+	text-align: center;
+
+ 
+#profile {
+	width: 110px;
+	height:120px;
+	border-radius: 100%;
+	box-shadow: 2px 4px slategrey;
+	margin-right: 320px;
+	padding-left: 0px;
+}
+
+}
+
+#cortège_picture {
+	width: 600px;
+	height: 280 px;
+}
+#femmerouge{
+	width: 300;
+	height: 180px;
+	box-shadow: 2px 4px indianred;
+}
+
+h3 {
+	font-size: 30px;
+	font-family:'Bodoni Moda', serif; ;
+
+}
+
+@media (max-width: 960px){
+	/*pour un ecran de moins de 960px */
+	.container  {  
+	width: 700px;
+	  }
+
+.card {
+	  	display: flex;
+	  	align-items: left;
+
+	  }
